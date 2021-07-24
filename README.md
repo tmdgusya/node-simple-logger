@@ -1,6 +1,6 @@
 # Simple-Logger In NodeJS😃
 
-Custom Logger In Javascript Runtime Environment (also TS)
+Custom Logger In Javascript Runtime Environment
 
 It's Most Simple of Simple!
 

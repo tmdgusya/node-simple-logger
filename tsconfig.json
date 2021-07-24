@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "module": "commonjs",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "outDir": "dist"
+  }
+}
